@@ -124,32 +124,6 @@ Repository ini berisi implementasi dan contoh-contoh praktis dari buku "Hands-On
 - **Fokus Praktis**: Strategi deployment dunia nyata
 - **Tools**: TensorFlow Extended (TFX), cloud deployment
 
-## Struktur Repository
-
-```
-├── notebooks/
-│   ├── 01_the_machine_learning_landscape/
-│   ├── 02_end_to_end_machine_learning_project/
-│   ├── 03_classification/
-│   ├── 04_training_models/
-│   ├── 05_support_vector_machines/
-│   ├── 06_decision_trees/
-│   ├── 07_ensemble_learning_and_random_forests/
-│   ├── 08_dimensionality_reduction/
-│   ├── 09_unsupervised_learning/
-│   ├── 10_neural_nets_with_keras/
-│   ├── 11_training_deep_neural_networks/
-│   ├── 12_custom_models_and_training/
-│   ├── 13_loading_and_preprocessing_data/
-│   ├── 14_deep_computer_vision/
-│   ├── 15_processing_sequences/
-│   ├── 16_nlp_with_rnns_and_attention/
-│   ├── 17_autoencoders/
-│   ├── 18_reinforcement_learning/
-│   └── 19_training_and_deploying_at_scale/
-└── README.md
-```
-
 ## Tujuan Pembelajaran Utama
 
 ### Traditional Machine Learning (Bab 1-9)
