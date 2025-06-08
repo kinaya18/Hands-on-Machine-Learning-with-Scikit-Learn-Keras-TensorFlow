@@ -146,4 +146,3 @@ Repository ini berisi implementasi dan contoh-contoh praktis dari buku "Hands-On
 
 - **Aurélien Géron**: Penulis buku asli
 - **O'Reilly Media**: Penerbit
-- **Open Source Community**: Untuk tools dan libraries luar biasa yang digunakan
